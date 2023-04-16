@@ -38,7 +38,7 @@ export default function Home() {
               <div className=' ml-2 mt-9'>
                 <h1 className="text-2xl font-bold text-[#045256] ">SOL-BIN</h1>
                 <p className='text-[10px] font-light'>The Smart Bin</p>
-                <a href={`${DEPLOY_URL}/aryal/`}>
+                <a href={"maps-rishita42.vercel.app"}>
                   <div className="p-2 mt-3 rounded-3xl bg-darkGreen w-20 grid place-items-center">
                     <h2 className=" text-white font-semibold">Map</h2>
                   </div>
